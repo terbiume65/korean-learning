@@ -672,7 +672,7 @@
       '<div class="hero-copy">' +
       modeSwitch +
       '<p class="eyebrow">' + esc(prettyDate()) + " · " + (isRev ? "recall mode" : "recognition mode") + "</p>" +
-      "<h1>" + (isRev ? "See the meaning. <em>Recall the word.</em>" : esc(greeting()) + ". Ready to learn some <em>Korean</em>?") + "</h1>" +
+      "<h1>" + (isRev ? "See the meaning. <em>Recall the word.</em>" : esc(greeting()) + (greeting().slice(-1) === "?" ? " " : ". ") + "Ready to learn some <em>Korean</em>?") + "</h1>" +
       '<p class="lead">' +
       (isRev
         ? "Reverse mode uses a separate review schedule. You see the Chinese meaning and produce the Korean word; audio plays after you reveal it. "
