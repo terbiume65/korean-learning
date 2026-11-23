@@ -1,0 +1,1109 @@
+{
+ "011:0.86": {
+  "meaning_zh": "轻",
+  "confidence": "high"
+ },
+ "011:23.56": {
+  "word": "가요",
+  "meaning_zh": "歌谣"
+ },
+ "014:49.08": {
+  "word": "갖다",
+  "meaning_zh": "具有",
+  "confidence": "high"
+ },
+ "015:16.49": {
+  "meaning_zh": "个",
+  "confidence": "high"
+ },
+ "018:55.54": {
+  "meaning_zh": "结账",
+  "confidence": "high"
+ },
+ "021:36.84": {
+  "word": "그곳",
+  "meaning_zh": "那个地方",
+  "confidence": "high"
+ },
+ "024:47.68": {
+  "drop": true
+ },
+ "024:54.55": {
+  "meaning_zh": "区",
+  "confidence": "high"
+ },
+ "026:41.39": {
+  "meaning_zh": "本；册",
+  "confidence": "high"
+ },
+ "027:18.76": {
+  "meaning_zh": "橘子",
+  "confidence": "high"
+ },
+ "029:51.88": {
+  "drop": true
+ },
+ "029:60.91": {
+  "drop": true
+ },
+ "031:41.88": {
+  "meaning_zh": "这个嘛",
+  "confidence": "high"
+ },
+ "033:0.72": {
+  "meaning_zh": "高兴的",
+  "confidence": "high"
+ },
+ "035:54.00": {
+  "meaning_zh": "砍价",
+  "example_ko": "가격을 깎지 마세요.",
+  "confidence": "high"
+ },
+ "036:0.79": {
+  "meaning_zh": "醒",
+  "confidence": "high"
+ },
+ "040:24.48": {
+  "meaning_zh": "出；发生",
+  "confidence": "high"
+ },
+ "049:9.84": {
+  "meaning_zh": "谁",
+  "confidence": "high"
+ },
+ "049:32.78": {
+  "word": "눈"
+ },
+ "050:26.17": {
+  "meaning_zh": "晚",
+  "confidence": "high"
+ },
+ "050:34.65": {
+  "meaning_zh": "迟到",
+  "confidence": "high"
+ },
+ "052:35.75": {
+  "meaning_zh": "桥",
+  "confidence": "high"
+ },
+ "054:0.80": {
+  "meaning_zh": "月"
+ },
+ "054:16.97": {
+  "meaning_zh": "甜",
+  "confidence": "high"
+ },
+ "056:50.18": {
+  "meaning_zh": "家",
+  "confidence": "high"
+ },
+ "057:25.37": {
+  "meaning_zh": "约会",
+  "confidence": "high"
+ },
+ "057:34.81": {
+  "meaning_zh": "度",
+  "confidence": "high"
+ },
+ "063:43.62": {
+  "drop": true
+ },
+ "067:11.84": {
+  "word": "강아지",
+  "meaning_zh": "小狗",
+  "confidence": "high"
+ },
+ "067:26.79": {
+  "meaning_zh": "心；心意",
+  "confidence": "high"
+ },
+ "070:1.10": {
+  "meaning_zh": "话",
+  "confidence": "high"
+ },
+ "071:49.58": {
+  "meaning_zh": "售票处"
+ },
+ "072:26.78": {
+  "meaning_zh": "先",
+  "confidence": "high"
+ },
+ "078:49.62": {
+  "meaning_zh": "米",
+  "confidence": "high"
+ },
+ "081:0.75": {
+  "meaning_zh": "外面"
+ },
+ "083:0.99": {
+  "meaning_zh": "肚子",
+  "confidence": "high"
+ },
+ "084:49.30": {
+  "meaning_zh": "次",
+  "confidence": "high"
+ },
+ "085:55.24": {
+  "meaning_zh": "瓶",
+  "confidence": "high"
+ },
+ "087:36.24": {
+  "meaning_zh": "饱",
+  "confidence": "high"
+ },
+ "101:26.90": {
+  "meaning_zh": "牛"
+ },
+ "106:68.31": {
+  "word": "스포츠",
+  "meaning_zh": "体育",
+  "confidence": "high"
+ },
+ "111:20.87": {
+  "word": "사다",
+  "meaning_zh": "买",
+  "confidence": "high"
+ },
+ "131:57.20": {
+  "meaning_zh": "五月",
+  "confidence": "high"
+ },
+ "140:15.82": {
+  "word": "이층",
+  "meaning_zh": "二楼",
+  "confidence": "high"
+ },
+ "167:38.94": {
+  "word": "축구",
+  "meaning_zh": "足球"
+ },
+ "058:16.78": {
+  "word": "도착",
+  "meaning_zh": "到达",
+  "example_ko": "보통 몇 시에 집에 도착해요?"
+ },
+ "092:16.29": {
+  "example_ko": "3년 전에 그에게 차 사고가 났었어요."
+ },
+ "177:1.10": {
+  "drop": true
+ },
+ "030:0.80": {
+  "word": "그렇지만",
+  "meaning_zh": "但是",
+  "example_ko": "그렇지만 당신의 태도는 정말 불쾌했어요."
+ },
+ "092:8.54": {
+  "example_ko": "다음 사거리에서 우회전하세요."
+ },
+ "164:10.93": {
+  "word": "착하다",
+  "meaning_zh": "善良"
+ },
+ "164:64.00": {
+  "word": "책",
+  "meaning_zh": "书"
+ },
+ "117:59.02": {
+  "word": "먹다",
+  "meaning_zh": "吃"
+ },
+ "162:40.03": {
+  "word": "찌개",
+  "meaning_zh": "炖菜"
+ },
+ "180:7.32": {
+  "word": "집",
+  "meaning_zh": "家"
+ },
+ "180:1.04": {
+  "meaning_zh": "票",
+  "confidence": "high"
+ },
+ "025:40.95": {
+  "word": "국"
+ },
+ "043:50.33": {
+  "word": "나"
+ },
+ "046:0.88": {
+  "word": "너"
+ },
+ "056:57.92": {
+  "drop": true
+ },
+ "058:38.75": {
+  "word": "돌"
+ },
+ "062:62.14": {
+  "meaning_zh": "女儿"
+ },
+ "075:28.77": {
+  "word": "몸"
+ },
+ "081:16.46": {
+  "meaning_zh": "高兴"
+ },
+ "081:49.41": {
+  "word": "발"
+ },
+ "087:16.49": {
+  "word": "봄"
+ },
+ "108:62.09": {
+  "word": "있다",
+  "meaning_zh": "有"
+ },
+ "145:0.90": {
+  "word": "입"
+ },
+ "159:61.84": {
+  "word": "지내다",
+  "meaning_zh": "生活"
+ },
+ "172:52.10": {
+  "word": "컵"
+ },
+ "173:10.67": {
+  "word": "코"
+ },
+ "011:57.64": {
+  "meaning_zh": "最"
+ },
+ "067:1.01": {
+  "meaning_zh": "瘦",
+  "confidence": "high"
+ },
+ "099:25.27": {
+  "word": "선풍기",
+  "meaning_zh": "电风扇",
+  "confidence": "high"
+ },
+ "118:24.95": {
+  "meaning_zh": "雾"
+ },
+ "165:26.67": {
+  "meaning_zh": "千",
+  "confidence": "high"
+ },
+ "167:45.86": {
+  "word": "축하",
+  "meaning_zh": "祝贺",
+  "confidence": "high"
+ },
+ "025:25.25": {
+  "confidence": "high"
+ },
+ "095:43.05": {
+  "confidence": "high"
+ },
+ "128:17.51": {
+  "confidence": "high"
+ },
+ "086:39.60": {
+  "word": "보이다",
+  "meaning_zh": "看得见"
+ },
+ "086:70.77": {
+  "meaning_zh": "炒",
+  "confidence": "high"
+ },
+ "126:51.23": {
+  "meaning_zh": "哪里",
+  "confidence": "high"
+ },
+ "028:8.77": {
+  "word": "그대로",
+  "confidence": "high"
+ },
+ "032:58.90": {
+  "meaning_zh": "感到高兴"
+ },
+ "052:43.67": {
+  "meaning_zh": "熨斗",
+  "confidence": "high"
+ },
+ "162:28.55": {
+  "word": "여자아이"
+ },
+ "167:24.21": {
+  "meaning_zh": "跳舞"
+ },
+ "187:51.21": {
+  "meaning_zh": "生气"
+ },
+ "010:8.59": {
+  "confidence": "high"
+ },
+ "011:16.15": {
+  "confidence": "high"
+ },
+ "012:46.31": {
+  "confidence": "high"
+ },
+ "013:40.04": {
+  "confidence": "high"
+ },
+ "023:17.21": {
+  "confidence": "high"
+ },
+ "023:53.51": {
+  "confidence": "high"
+ },
+ "025:0.75": {
+  "confidence": "high"
+ },
+ "025:33.33": {
+  "confidence": "high"
+ },
+ "026:33.83": {
+  "confidence": "high"
+ },
+ "026:49.80": {
+  "confidence": "high"
+ },
+ "027:28.10": {
+  "confidence": "high"
+ },
+ "030:17.86": {
+  "confidence": "high"
+ },
+ "031:59.83": {
+  "confidence": "high"
+ },
+ "040:7.31": {
+  "confidence": "high"
+ },
+ "040:15.05": {
+  "confidence": "high"
+ },
+ "040:57.50": {
+  "confidence": "high"
+ },
+ "041:0.85": {
+  "confidence": "high"
+ },
+ "041:25.84": {
+  "confidence": "high"
+ },
+ "044:7.78": {
+  "confidence": "high"
+ },
+ "044:45.51": {
+  "confidence": "high"
+ },
+ "045:30.42": {
+  "confidence": "high"
+ },
+ "047:28.31": {
+  "confidence": "high"
+ },
+ "048:34.80": {
+  "confidence": "high"
+ },
+ "050:0.89": {
+  "confidence": "high"
+ },
+ "052:0.72": {
+  "confidence": "high"
+ },
+ "057:8.93": {
+  "confidence": "high"
+ },
+ "059:55.50": {
+  "confidence": "high"
+ },
+ "061:9.52": {
+  "confidence": "high"
+ },
+ "062:45.19": {
+  "confidence": "high"
+ },
+ "063:23.19": {
+  "confidence": "high"
+ },
+ "063:32.59": {
+  "confidence": "high"
+ },
+ "014:17.23": {
+  "meaning_zh": "价格",
+  "confidence": "high"
+ },
+ "015:32.99": {
+  "meaning_zh": "东西",
+  "confidence": "high"
+ },
+ "016:8.69": {
+  "word": "거의",
+  "confidence": "high"
+ },
+ "017:12.17": {
+  "meaning_zh": "花费",
+  "confidence": "high"
+ },
+ "017:37.07": {
+  "word": "걸어오다",
+  "meaning_zh": "走来",
+  "confidence": "high"
+ },
+ "017:74.05": {
+  "word": "가다",
+  "meaning_zh": "去",
+  "confidence": "high"
+ },
+ "027:51.09": {
+  "meaning_zh": "那个地方",
+  "confidence": "high"
+ },
+ "028:28.16": {
+  "meaning_zh": "那时",
+  "confidence": "high"
+ },
+ "029:20.51": {
+  "word": "그러므로",
+  "confidence": "high"
+ },
+ "031:17.27": {
+  "meaning_zh": "斤",
+  "confidence": "high"
+ },
+ "045:56.37": {
+  "meaning_zh": "放",
+  "confidence": "high"
+ },
+ "060:26.00": {
+  "word": "되다",
+  "meaning_zh": "可以",
+  "confidence": "high"
+ },
+ "060:65.10": {
+  "meaning_zh": "放；留下",
+  "confidence": "high"
+ },
+ "061:43.16": {
+  "meaning_zh": "终于",
+  "confidence": "high"
+ },
+ "061:59.05": {
+  "meaning_zh": "给",
+  "confidence": "high"
+ },
+ "062:17.49": {
+  "meaning_zh": "喜欢",
+  "confidence": "high"
+ },
+ "064:42.90": {
+  "word": "축하하다",
+  "meaning_zh": "祝贺",
+  "confidence": "high"
+ },
+ "066:34.41": {
+  "meaning_zh": "乳液",
+  "confidence": "high"
+ },
+ "067:50.18": {
+  "confidence": "high"
+ },
+ "069:0.91": {
+  "confidence": "high"
+ },
+ "069:15.44": {
+  "confidence": "high"
+ },
+ "070:8.91": {
+  "confidence": "high"
+ },
+ "072:67.06": {
+  "confidence": "high"
+ },
+ "073:8.21": {
+  "confidence": "high"
+ },
+ "074:7.77": {
+  "confidence": "high"
+ },
+ "074:15.84": {
+  "confidence": "high"
+ },
+ "075:37.40": {
+  "confidence": "high"
+ },
+ "075:44.65": {
+  "confidence": "high"
+ },
+ "076:40.57": {
+  "confidence": "high"
+ },
+ "081:8.23": {
+  "confidence": "high"
+ },
+ "086:13.41": {
+  "confidence": "high"
+ },
+ "088:17.21": {
+  "confidence": "high"
+ },
+ "089:9.20": {
+  "confidence": "high"
+ },
+ "090:63.57": {
+  "confidence": "high"
+ },
+ "092:34.67": {
+  "confidence": "high"
+ },
+ "093:15.18": {
+  "confidence": "high"
+ },
+ "095:51.25": {
+  "confidence": "high"
+ },
+ "099:17.68": {
+  "confidence": "high"
+ },
+ "101:0.69": {
+  "confidence": "high"
+ },
+ "108:0.82": {
+  "confidence": "high"
+ },
+ "108:29.00": {
+  "confidence": "high"
+ },
+ "110:57.17": {
+  "confidence": "high"
+ },
+ "110:67.14": {
+  "confidence": "high"
+ },
+ "112:0.74": {
+  "confidence": "high"
+ },
+ "114:0.89": {
+  "confidence": "high"
+ },
+ "114:19.84": {
+  "confidence": "high"
+ },
+ "115:19.09": {
+  "confidence": "high"
+ },
+ "116:39.49": {
+  "confidence": "high"
+ },
+ "116:49.16": {
+  "confidence": "high"
+ },
+ "119:3.10": {
+  "confidence": "high"
+ },
+ "121:26.46": {
+  "confidence": "high"
+ },
+ "122:40.48": {
+  "confidence": "high"
+ },
+ "067:43.48": {
+  "meaning_zh": "万",
+  "confidence": "high"
+ },
+ "069:48.44": {
+  "meaning_zh": "话",
+  "confidence": "high"
+ },
+ "070:27.48": {
+  "word": "맑다",
+  "meaning_zh": "清澈",
+  "confidence": "high"
+ },
+ "072:57.37": {
+  "meaning_zh": "魅力",
+  "confidence": "high"
+ },
+ "073:55.54": {
+  "meaning_zh": "名",
+  "confidence": "high"
+ },
+ "074:0.93": {
+  "meaning_zh": "几",
+  "confidence": "high"
+ },
+ "076:32.70": {
+  "word": "무엇",
+  "meaning_zh": "什么",
+  "confidence": "high"
+ },
+ "080:25.87": {
+  "word": "바로",
+  "meaning_zh": "正好",
+  "confidence": "high"
+ },
+ "082:8.78": {
+  "meaning_zh": "饭",
+  "confidence": "high"
+ },
+ "088:52.08": {
+  "meaning_zh": "贴",
+  "confidence": "high"
+ },
+ "088:62.41": {
+  "meaning_zh": "请求",
+  "confidence": "high"
+ },
+ "089:36.11": {
+  "word": "불",
+  "meaning_zh": "火",
+  "confidence": "high"
+ },
+ "089:62.81": {
+  "word": "붉다",
+  "meaning_zh": "红的",
+  "confidence": "high"
+ },
+ "092:1.00": {
+  "drop": true,
+  "confidence": "high"
+ },
+ "093:0.95": {
+  "meaning_zh": "除法",
+  "confidence": "high"
+ },
+ "094:48.62": {
+  "meaning_zh": "岁",
+  "confidence": "high"
+ },
+ "096:18.45": {
+  "meaning_zh": "新的",
+  "confidence": "high"
+ },
+ "100:0.92": {
+  "meaning_zh": "姓",
+  "confidence": "high"
+ },
+ "102:52.26": {
+  "word": "속도",
+  "meaning_zh": "速度",
+  "confidence": "high"
+ },
+ "110:10.37": {
+  "meaning_zh": "失礼；打扰",
+  "confidence": "high"
+ },
+ "110:29.97": {
+  "meaning_zh": "种植",
+  "confidence": "high"
+ },
+ "117:12.07": {
+  "meaning_zh": "阿姨",
+  "confidence": "high"
+ },
+ "118:42.78": {
+  "meaning_zh": "引导",
+  "confidence": "high"
+ },
+ "118:53.34": {
+  "meaning_zh": "告示",
+  "confidence": "high"
+ },
+ "118:64.52": {
+  "meaning_zh": "安宁",
+  "confidence": "high"
+ },
+ "120:25.30": {
+  "word": "약",
+  "meaning_zh": "药",
+  "confidence": "high"
+ },
+ "120:56.40": {
+  "word": "약속하다",
+  "meaning_zh": "约定",
+  "confidence": "high"
+ },
+ "121:43.16": {
+  "word": "어느",
+  "meaning_zh": "哪个",
+  "confidence": "high"
+ },
+ "122:49.23": {
+  "meaning_zh": "母亲",
+  "confidence": "high"
+ },
+ "125:64.03": {
+  "confidence": "high"
+ },
+ "127:0.84": {
+  "confidence": "high"
+ },
+ "127:35.12": {
+  "confidence": "high"
+ },
+ "128:52.63": {
+  "confidence": "high"
+ },
+ "130:22.02": {
+  "confidence": "high"
+ },
+ "134:34.84": {
+  "confidence": "high"
+ },
+ "134:43.74": {
+  "confidence": "high"
+ },
+ "135:0.98": {
+  "confidence": "high"
+ },
+ "138:42.92": {
+  "confidence": "high"
+ },
+ "141:0.81": {
+  "confidence": "high"
+ },
+ "142:9.14": {
+  "confidence": "high"
+ },
+ "142:29.16": {
+  "confidence": "high"
+ },
+ "142:60.28": {
+  "confidence": "high",
+  "hanja": ""
+ },
+ "144:32.63": {
+  "confidence": "high"
+ },
+ "146:0.98": {
+  "confidence": "high"
+ },
+ "146:27.61": {
+  "confidence": "high"
+ },
+ "147:26.47": {
+  "confidence": "high"
+ },
+ "148:1.08": {
+  "confidence": "high"
+ },
+ "148:22.54": {
+  "confidence": "high"
+ },
+ "150:52.37": {
+  "confidence": "high"
+ },
+ "153:44.45": {
+  "confidence": "high"
+ },
+ "155:16.21": {
+  "confidence": "high"
+ },
+ "155:34.89": {
+  "confidence": "high"
+ },
+ "155:41.73": {
+  "confidence": "high",
+  "example_ko": "요즘 무슨 한국 노래가 좋아요?"
+ },
+ "161:21.51": {
+  "confidence": "high"
+ },
+ "165:42.22": {
+  "confidence": "high"
+ },
+ "165:59.06": {
+  "confidence": "high"
+ },
+ "168:24.18": {
+  "confidence": "high"
+ },
+ "170:0.92": {
+  "confidence": "high"
+ },
+ "177:17.14": {
+  "confidence": "high"
+ },
+ "178:21.05": {
+  "confidence": "high",
+  "example_zh": "今天也加油！"
+ },
+ "179:1.01": {
+  "confidence": "high"
+ },
+ "180:39.68": {
+  "confidence": "high"
+ },
+ "182:14.71": {
+  "confidence": "high"
+ },
+ "184:56.75": {
+  "confidence": "high"
+ },
+ "185:3.01": {
+  "confidence": "high"
+ },
+ "185:44.47": {
+  "confidence": "high"
+ },
+ "186:0.89": {
+  "confidence": "high"
+ },
+ "187:0.76": {
+  "confidence": "high"
+ },
+ "187:16.03": {
+  "confidence": "high"
+ },
+ "187:43.94": {
+  "confidence": "high"
+ },
+ "188:0.98": {
+  "confidence": "high"
+ },
+ "188:17.48": {
+  "confidence": "high"
+ },
+ "188:60.74": {
+  "confidence": "high"
+ },
+ "190:49.31": {
+  "confidence": "high"
+ },
+ "190:56.58": {
+  "confidence": "high"
+ },
+ "125:20.09": {
+  "meaning_zh": "到处",
+  "confidence": "high"
+ },
+ "125:28.65": {
+  "meaning_zh": "点",
+  "confidence": "high",
+  "hanja": "時",
+  "hanja_simplified": "时"
+ },
+ "125:54.83": {
+  "meaning_zh": "许多",
+  "confidence": "high"
+ },
+ "127:10.28": {
+  "meaning_zh": "练习",
+  "confidence": "high"
+ },
+ "129:51.56": {
+  "meaning_zh": "内容",
+  "confidence": "high"
+ },
+ "130:64.14": {
+  "word": "오래간만",
+  "meaning_zh": "好久不见",
+  "confidence": "high"
+ },
+ "133:56.82": {
+  "word": "외삼촌",
+  "confidence": "high"
+ },
+ "134:59.94": {
+  "meaning_zh": "星期",
+  "confidence": "high"
+ },
+ "137:36.50": {
+  "meaning_zh": "韩元",
+  "confidence": "high"
+ },
+ "143:1.04": {
+  "meaning_zh": "年",
+  "confidence": "high"
+ },
+ "144:49.12": {
+  "word": "잃다",
+  "meaning_zh": "丢失",
+  "confidence": "high"
+ },
+ "145:35.37": {
+  "word": "잊다",
+  "meaning_zh": "忘记",
+  "confidence": "high"
+ },
+ "147:60.81": {
+  "meaning_zh": "杯",
+  "confidence": "high"
+ },
+ "149:8.99": {
+  "meaning_zh": "张",
+  "confidence": "high"
+ },
+ "150:17.48": {
+  "meaning_zh": "那",
+  "confidence": "high"
+ },
+ "150:29.45": {
+  "meaning_zh": "那里",
+  "confidence": "high"
+ },
+ "156:0.95": {
+  "meaning_zh": "周",
+  "confidence": "high",
+  "hanja": "週",
+  "hanja_simplified": "周"
+ },
+ "156:24.93": {
+  "meaning_zh": "订购",
+  "confidence": "high"
+ },
+ "157:25.80": {
+  "meaning_zh": "周日",
+  "confidence": "high"
+ },
+ "165:35.52": {
+  "word": "천만",
+  "meaning_zh": "千万",
+  "confidence": "high"
+ },
+ "166:43.86": {
+  "meaning_zh": "初",
+  "confidence": "high",
+  "hanja": "初",
+  "hanja_simplified": "初"
+ },
+ "168:49.17": {
+  "word": "춥다",
+  "meaning_zh": "冷",
+  "confidence": "high"
+ },
+ "183:54.52": {
+  "meaning_zh": "恨",
+  "confidence": "high"
+ },
+ "185:8.34": {
+  "word": "함께",
+  "meaning_zh": "一起",
+  "confidence": "high"
+ },
+ "185:33.98": {
+  "meaning_zh": "年",
+  "confidence": "high"
+ },
+ "185:52.71": {
+  "meaning_zh": "手机",
+  "confidence": "high"
+ },
+ "186:9.74": {
+  "meaning_zh": "活动",
+  "confidence": "high"
+ },
+ "186:47.09": {
+  "meaning_zh": "教室",
+  "confidence": "high"
+ },
+ "187:8.64": {
+  "meaning_zh": "或许",
+  "confidence": "high"
+ },
+ "188:48.31": {
+  "meaning_zh": "集",
+  "confidence": "high"
+ },
+ "189:19.54": {
+  "word": "회의",
+  "meaning_zh": "会议",
+  "confidence": "high"
+ },
+ "189:59.92": {
+  "meaning_zh": "假日",
+  "confidence": "high"
+ },
+ "190:10.87": {
+  "meaning_zh": "阴",
+  "confidence": "high"
+ },
+ "190:30.23": {
+  "meaning_zh": "流",
+  "confidence": "high"
+ },
+ "107:31.23": {
+  "meaning_zh": "点",
+  "hanja": "時",
+  "hanja_simplified": "时"
+ },
+ "031:33.72": {
+  "meaning_zh": "文章"
+ },
+ "043:58.00": {
+  "word": "내과",
+  "meaning_zh": "内科"
+ },
+ "070:52.50": {
+  "word": "맛있다"
+ },
+ "074:25.57": {
+  "word": "모레",
+  "meaning_zh": "明天",
+  "example_ko": "꽃값은 모레까지 은행에 내면 돼요.",
+  "example_zh": "花钱最晚明天要付给银行。"
+ },
+ "099:0.69": {
+  "meaning_zh": "前辈"
+ },
+ "143:51.64": {
+  "word": "일어나다"
+ },
+ "148:47.95": {
+  "meaning_zh": "抓"
+ },
+ "152:25.95": {
+  "example_ko": "침대 근처에는 전화기가 있어요."
+ },
+ "164:40.15": {
+  "meaning_zh": "来访"
+ },
+ "169:25.23": {
+  "word": "치다"
+ },
+ "183:39.14": {
+  "word": "학원"
+ },
+ "083:47.68": {
+  "meaning_zh": "白菜"
+ },
+ "085:20.86": {
+  "meaning_zh": "春装"
+ },
+ "095:16.62": {
+  "meaning_zh": "三岔路口"
+ },
+ "125:9.76": {
+  "word": "여기",
+  "meaning_zh": "这里",
+  "example_ko": "여기는 여름에 비가 오고 더워요.",
+  "example_zh": "这里夏天多雨且炎热。"
+ },
+ "169:17.08": {
+  "word": "층",
+  "meaning_zh": "层"
+ },
+ "014:59.46": {
+  "word": "갖은"
+ },
+ "038:0.74": {
+  "meaning_zh": "最终"
+ },
+ "053:25.04": {
+  "meaning_zh": "擦"
+ },
+ "055:16.18": {
+  "meaning_zh": "辆"
+ },
+ "063:49.17": {
+  "example_zh": "行三次大礼，吃年糕汤。"
+ },
+ "084:0.89": {
+  "meaning_zh": "百"
+ },
+ "100:11.86": {
+  "word": "성공하다"
+ },
+ "136:60.07": {
+  "word": "운전사"
+ },
+ "143:41.94": {
+  "meaning_zh": "日式料理"
+ }
+}
