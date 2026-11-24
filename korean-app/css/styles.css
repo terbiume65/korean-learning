@@ -4182,3 +4182,17 @@ a:focus-visible {
     grid-template-columns: 1fr;
   }
 }
+
+/* Result/back/MCQ transitions should not replay the card entrance animation. */
+.study-card.no-enter {
+  animation: none;
+}
+
+.study-card.no-enter .result-banner {
+  animation: none;
+}
+
+.result-banner.again {
+  background: color-mix(in srgb, var(--gold) 14%, var(--surface));
+  color: var(--gold-text);
+}
