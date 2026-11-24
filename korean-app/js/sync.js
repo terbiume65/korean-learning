@@ -250,7 +250,13 @@
     try {
       var result =
         mode === "up"
-          ? await client.auth.signUp({ email: email, password: password })
+          ? await client.auth.signUp({
+              email: email,
+              password: password,
+              options: {
+                emailRedirectTo: window.location.origin + window.location.pathname,
+              },
+            })
           : await client.auth.signInWithPassword({ email: email, password: password });
       if (result.error) throw result.error;
       if (mode === "up" && !result.data.session) {
