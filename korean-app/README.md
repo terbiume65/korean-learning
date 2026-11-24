@@ -46,7 +46,7 @@ The app uses **FSRS-5** (Free Spaced Repetition Scheduler), the modern algorithm
 - A fast correct multiple-choice answer is treated as Easy once a card is already in review; new cards always graduate on Good.
 - **Recognition and recall keep separate card states and separate review schedules**, so practising one direction does not inflate the other.
 
-All progress is stored in `localStorage` under `hangul-deck-v1`.
+All progress is stored in `localStorage` under `hangul-deck-v1`. Optional Supabase sync is configured in `js/sync-config.js`; the schema is in `supabase/schema.sql`.
 
 ## Hangul Café
 
@@ -65,6 +65,25 @@ Beans are earned by studying:
 | Finishing a reader text for the first time | +5 beans |
 
 Beans buy café items; items unlock at café levels (based on total beans earned). The scene is vector art, so it scales cleanly and needs no external images. New regulars appear in the café as more words are touched in either direction.
+
+## Cloud sync
+
+Optional Supabase sync keeps progress together across devices.
+
+- Sign in from **Settings → Cloud sync** with an email and password.
+- Each account gets one row per app in `public.app_progress`, protected by row-level security.
+- The app pulls and merges on start/focus, and pushes about a second after each change.
+- Cloud sync is optional; when signed out, everything still runs locally.
+
+Merge rules are deliberately conservative:
+
+- vocabulary/reverse cards: keep the state with the latest review
+- grammar and reading: union completed items, keep the best score
+- daily stats: keep the higher count per day
+- café items, charms and grammar stars: union
+- café currency/streak: keep the higher value
+
+The backend is a free Supabase project. The public project URL and publishable key live in `js/sync-config.js`; the table policy is in `supabase/schema.sql`. Email confirmation is enabled. After creating your own account, disable new sign-ups in Supabase if you want the project private to you. Free Supabase projects pause after a week of inactivity and can be restored from the dashboard.
 
 ## Grammar
 

@@ -181,6 +181,19 @@
       tip.addEventListener("pointerleave", scheduleHideGloss);
     }
     window.addEventListener("hashchange", route);
+    if (window.CloudSync) {
+      CloudSync.init({
+        getState: function () { return app.state; },
+        setState: function (next) {
+          app.state = next;
+          Store.save(app.state);
+          render();
+        },
+      });
+      window.addEventListener("cloud:changed", function () {
+        if (app.view === "settings") render();
+      });
+    }
     route();
   }
 
@@ -1217,8 +1230,9 @@
       "</div>" +
       '<div class="settings-panel"><h2>Progress data</h2><p>Everything is stored locally in this browser. Export a backup before clearing site data.</p>' +
       '<div class="settings-actions"><button class="btn btn-soft" data-action="export">Export progress</button><button class="btn btn-ghost" data-action="import">Import</button><button class="btn btn-danger" data-action="reset">Reset all progress</button></div>' +
-      '<p class="about-box" style="margin-top:16px"><strong>' + Deck.count.toLocaleString() + ' cards</strong> · FSRS scheduling · progress stays on this device.<br>Keyboard: Space to reveal, 1–4 to answer/rate, A/S for audio, Esc to exit.</p>' +
+      '<p class="about-box" style="margin-top:16px"><strong>' + Deck.count.toLocaleString() + ' cards</strong> · FSRS scheduling · local-first; cloud sync is optional.<br>Keyboard: Space to reveal, 1–4 to answer/rate, A/S for audio, Esc to exit.</p>' +
       "</div>" +
+      '<div class="settings-panel sync-panel"><h2>Cloud sync</h2>' + (window.CloudSync ? CloudSync.settingsHtml() : '<p class="sync-status error">Cloud sync module not loaded.</p>') + "</div>" +
       "</div>"
     );
   }

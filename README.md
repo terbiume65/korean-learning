@@ -12,6 +12,7 @@ A local-first Korean learning project: a 1,315-entry vocabulary deck, a complete
 | `source/grammar-src/` | Scanned *Korean Grammar in Use: Beginner* reference PDF |
 | `pipeline/` | Transcription/translation/export scripts, `ffmpeg`, and intermediate work |
 | `.venv/` | Optional hidden Python environment for re-running the pipeline |
+| `supabase/` | Database table and RLS policy for optional cross-device sync |
 
 The app is self-contained. The remaining folders are source material and the offline pipeline used to build the deck.
 

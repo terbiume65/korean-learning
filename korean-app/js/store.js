@@ -117,6 +117,9 @@
   function save(state) {
     try {
       localStorage.setItem(KEY, JSON.stringify(state));
+      if (root.dispatchEvent && typeof root.CustomEvent === "function") {
+        root.dispatchEvent(new root.CustomEvent("deck:saved"));
+      }
       return true;
     } catch (e) {
       console.warn("Could not save progress", e);

@@ -4052,3 +4052,133 @@ a:focus-visible {
   background: linear-gradient(145deg, #3b2c1f, #5c422b);
   color: #f4dfb8;
 }
+
+/* Optional cloud sync panel */
+.sync-panel {
+  grid-column: 1 / -1;
+  background:
+    radial-gradient(600px 200px at 100% 0%, color-mix(in srgb, var(--teal) 8%, transparent), transparent 70%),
+    var(--surface);
+}
+
+.sync-panel > h2 {
+  margin: 0 0 4px;
+  font-size: 14px;
+}
+
+.sync-intro {
+  margin: 0;
+  max-width: 780px;
+  color: var(--muted);
+  font-size: 11.5px;
+  line-height: 1.55;
+}
+
+.sync-empty {
+  margin-top: 14px;
+  padding: 14px 16px;
+  border: 1px dashed var(--line);
+  border-radius: 12px;
+  background: var(--surface-2);
+  font-size: 12px;
+  line-height: 1.55;
+}
+
+.sync-empty p {
+  margin: 6px 0 0;
+  color: var(--muted);
+  font-size: 11.5px;
+}
+
+.sync-panel code {
+  padding: 1px 5px;
+  border-radius: 5px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  font-size: 10.5px;
+}
+
+.sync-auth {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px 12px;
+  margin-top: 14px;
+  max-width: 760px;
+}
+
+.sync-auth .field-sync {
+  display: grid;
+  gap: 5px;
+  padding: 0;
+  border: 0;
+}
+
+.sync-auth label {
+  font-size: 11px;
+  font-weight: 750;
+}
+
+.sync-auth input {
+  width: 100%;
+  padding: 10px 12px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--surface-2);
+  font-size: 12.5px;
+}
+
+.sync-auth input:focus {
+  outline: 2px solid color-mix(in srgb, var(--accent) 30%, transparent);
+  border-color: var(--accent);
+}
+
+.sync-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  grid-column: 1 / -1;
+}
+
+.sync-status {
+  grid-column: 1 / -1;
+  margin: 0;
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.5;
+}
+
+.sync-status.error {
+  color: var(--red-text);
+}
+
+.sync-account {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-top: 14px;
+  padding: 12px 14px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--surface-2);
+}
+
+.sync-account strong {
+  display: block;
+  font-size: 12.5px;
+}
+
+.sync-account span {
+  display: block;
+  margin-top: 2px;
+  color: var(--muted);
+  font-size: 10.5px;
+}
+
+@media (max-width: 640px) {
+  .sync-auth {
+    grid-template-columns: 1fr;
+  }
+}
