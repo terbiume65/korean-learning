@@ -870,16 +870,17 @@
   function renderRating(c, direction) {
     var map = direction === "reverse" ? app.state.reverseCards : app.state.cards;
     var preview = FSRS.preview(map[c.id] || FSRS.newCard(c.id));
-    var labels = ["Again", "Hard", "Good", "Easy"];
-    var classes = ["again", "hard", "good", "easy"];
+    var labels = ["Again", "Hard"];
+    var classes = ["again", "hard"];
     return (
-      '<div><div class="rating-label">How well did you know it?</div><div class="rating-row">' +
+      '<div><div class="rating-label">How well did you know it?</div><div class="rating-row two">' +
       preview
+        .slice(0, 2)
         .map(function (p, i) {
           return '<button class="rate-btn ' + classes[i] + '" data-action="rate" data-grade="' + (i + 1) + '">' + labels[i] + "<small>" + FSRS.formatInterval(p.intervalDays) + "</small></button>";
         })
         .join("") +
-      "</div></div>"
+      '</div><p class="rating-hint">Know it well? Use “I know it · test me” instead — Good and Easy are earned in the quiz.</p></div>'
     );
   }
 
@@ -2741,7 +2742,8 @@
         selectOption(Number(e.key) - 1);
       } else if (app.mode === "back") {
         e.preventDefault();
-        rate(Number(e.key));
+        var rating = Number(e.key);
+        if (rating <= 2) rate(rating);
       }
       return;
     }
